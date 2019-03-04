@@ -1,9 +1,6 @@
 ======================
-Project: Maze-Gentrack
+Project: MazeSolver
 ======================
-Authors: Ben Zeng
-Date: 04.03.19
-
 This project contains a program to solve mazes.
 The program reads in a file, which recursively solves the maze and outputs the solution.
 
